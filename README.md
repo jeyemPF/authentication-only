@@ -1,3 +1,3 @@
-## Laravel 10 Course
+## Authentication 
 
-## Get this course to my heart
+## Pogi talaga ni Jayvee at JC HAHHAHAHA
